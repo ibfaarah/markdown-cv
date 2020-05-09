@@ -1,11 +1,11 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ibrahim Bashe Farah Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ibrahim Bashe Farah
+Computational Biologist, PhD Candidate.
 
-<div id="webaddress">
+<div id="ibfaarah.github.io/markdown-cv">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
